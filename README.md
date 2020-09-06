@@ -95,7 +95,7 @@ Each Command consists of a Key/Value pair, where the Key is separated from the V
 
 Multiple Commands can be strung together where each Command is separated by a Tilde (~).
 
-Ie. 01=MyButton~Left=500~Top=300~Text=Press This
+Ie. "01=MyButton~Left=500~Top=300~Text=Press This"
 
 The first Command in a multiple Command line must be the command that identifies the Type and ID of the Widget.
 
@@ -163,7 +163,7 @@ These Commands are contained in the supplied EasyGUI.py module. These are provid
 
 if the following message was sent:
 
-1=MyButton~Left=500~Top=300~Color=255000000
+"1=MyButton~Left=500~Top=300~Color=255000000"
 
 Find(&#39;MyButton&#39;,&#39;Top&#39;) will return 300
 
@@ -950,6 +950,4 @@ In order to be able to use the arrow keys in EasyGen which seems to be different
 
 Setup.py will prompt you to press each of the arrow keys in turn, the results of which will be stored in config.py
 
-## WINDOWS
 
-## LINUX
