@@ -1,0 +1,4 @@
+Page0=00~Back=255255255
+ggg=11~Top=250~Left=100~Width=1250~Height=1250~Back=100000000~Name=null~Text=garage.jpg~Color=000000000~Size=0~Style=0~Min=0~Max=0~Pos=0~Just=0~PageNo=0
+door=11~Top=680~Left=330~Width=610~Height=470~Back=236236236~Name=null~Text=door.jpg~Color=000000000~Size=0~Style=0~Min=0~Max=0~Pos=0~Just=0~PageNo=0
+up=01~Top=1700~Left=500~Width=400~Height=400~Back=000255500~Name=arial~Text=UP~Color=000000000~Size=24~Style=0~Min=0~Max=0~Pos=0~Just=0~PageNo=0
